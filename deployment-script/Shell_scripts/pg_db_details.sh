@@ -10,5 +10,5 @@ PSQL="/usr/local/bin/psql"
 
 export PGPASSWORD=root1234
 
-BASE_FOLDER='/Users/durgach/github/DP/test-db/testschema/Constraints/'
+BASE_FOLDER='/home/ec2-user/pgscript/test-db/testschema/Constraints'
 echo 'Postgres code basefolder=' $BASE_FOLDER
