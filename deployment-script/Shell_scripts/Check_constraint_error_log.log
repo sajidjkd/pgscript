@@ -1,0 +1,9 @@
+Check_constraint creation STARTED : 19:24:30
+Start Time : Wed May 16 19:24:30 IST 2018 , Executing individual SQL file :  /Users/durgach/github/DP/test-db/testschema/Constraints//Check_constraint/asset_chk.sql
+Postgres Execution Status [ success(0)/failure(>0) ] :  0
+ALTER TABLE
+Start Time : Wed May 16 19:24:30 IST 2018 , Executing individual SQL file : 
+Postgres Execution Status [ success(0)/failure(>0) ] :  0
+psql: option requires an argument -- f
+Try "psql --help" for more information.
+Check_constraint creation END : 19:24:40

@@ -1,0 +1,16 @@
+started at 2018-05-16 18:58:55.635399psql:/Users/durgach/github/DP/test-db/testschema/Tables/application.sql:7: ERROR:  schema "vestek" does not exist
+LINE 1: CREATE TABLE IF NOT EXISTS vestek.application(
+                                   ^
+CREATE TABLE
+psql:/Users/durgach/github/DP/test-db/testschema/Tables/asset_domain.sql:8: ERROR:  schema "vestek" does not exist
+LINE 1: CREATE TABLE IF NOT EXISTS vestek.asset_domain(
+                                   ^
+psql:/Users/durgach/github/DP/test-db/testschema/Tables/application.sql:7: ERROR:  schema "vestek" does not exist
+LINE 1: CREATE TABLE IF NOT EXISTS vestek.application(
+                                   ^
+psql:/Users/durgach/github/DP/test-db/testschema/Tables/asset.sql:52: NOTICE:  relation "asset" already exists, skipping
+CREATE TABLE
+psql:/Users/durgach/github/DP/test-db/testschema/Tables/asset_domain.sql:8: ERROR:  schema "vestek" does not exist
+LINE 1: CREATE TABLE IF NOT EXISTS vestek.asset_domain(
+                                   ^
+ended at 2018-05-16 18:58:55.935665

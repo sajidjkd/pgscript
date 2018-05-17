@@ -1,0 +1,9 @@
+Foreign_key creation STARTED : 19:25:19
+Start Time : Wed May 16 19:25:19 IST 2018 , Executing individual SQL file :  /Users/durgach/github/DP/test-db/testschema/Constraints//Foreign_key/asset_fkey.sql
+Postgres Execution Status [ success(0)/failure(>0) ] :  0
+ALTER TABLE
+Start Time : Wed May 16 19:25:19 IST 2018 , Executing individual SQL file : 
+Postgres Execution Status [ success(0)/failure(>0) ] :  0
+psql: option requires an argument -- f
+Try "psql --help" for more information.
+Foreign_key creation END : 19:25:29

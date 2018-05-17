@@ -1,0 +1,10 @@
+started at 2018-05-16 19:01:02.127963CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+psql:/Users/durgach/github/DP/test-db/testschema/Tables/application.sql:7: NOTICE:  relation "application" already exists, skipping
+CREATE TABLE
+psql:/Users/durgach/github/DP/test-db/testschema/Tables/asset.sql:52: NOTICE:  relation "asset" already exists, skipping
+CREATE TABLE
+psql:/Users/durgach/github/DP/test-db/testschema/Tables/asset_domain.sql:8: NOTICE:  relation "asset_domain" already exists, skipping
+CREATE TABLE
+ended at 2018-05-16 19:01:02.403789

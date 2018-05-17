@@ -1,0 +1,15 @@
+Index creation STARTED : 19:24:03
+Start Time : Wed May 16 19:24:04 IST 2018 , Executing individual SQL file :  /Users/durgach/github/DP/test-db/testschema/Constraints//Index/application_idx.sql
+Postgres Execution Status [ success(0)/failure(>0) ] :  0
+CREATE INDEX
+Start Time : Wed May 16 19:24:04 IST 2018 , Executing individual SQL file :  /Users/durgach/github/DP/test-db/testschema/Constraints//Index/asset_idx.sql
+Postgres Execution Status [ success(0)/failure(>0) ] :  0
+psql:/Users/durgach/github/DP/test-db/testschema/Constraints/Index/asset_idx.sql:1: ERROR:  relation "idx_asset_id_partition" already exists
+psql:/Users/durgach/github/DP/test-db/testschema/Constraints/Index/asset_idx.sql:2: ERROR:  relation "idx_asset_transactionid" already exists
+psql:/Users/durgach/github/DP/test-db/testschema/Constraints/Index/asset_idx.sql:3: ERROR:  relation "idx_asset_nm" already exists
+psql:/Users/durgach/github/DP/test-db/testschema/Constraints/Index/asset_idx.sql:4: ERROR:  relation "idx_asset_owner" already exists
+Start Time : Wed May 16 19:24:04 IST 2018 , Executing individual SQL file : 
+Postgres Execution Status [ success(0)/failure(>0) ] :  0
+psql: option requires an argument -- f
+Try "psql --help" for more information.
+Indexes creation END : 19:24:14
