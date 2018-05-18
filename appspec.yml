@@ -13,5 +13,5 @@ permissions:
        - file
 hooks:
   AfterInstall:
-    - location: ./scripts/after-install.sh
+    - location: /home/ec2-user/pgscript/deployment-script/after-install.sh
       timeout: 900
