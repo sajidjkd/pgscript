@@ -125,7 +125,8 @@ if __name__ == "__main__":
 
     print "Enter A - For ALL"
     print "Enter Q -  To Quit"
-    flag = raw_input("Enter Your Choice:")
+    #flag = raw_input("Enter Your Choice:")
+    flag = 'A'
     if flag == 'Q':
         exit(0)
     if flag == 'R':
