@@ -7,5 +7,3 @@ sleep 1m
 python table_creation.py
 
 
-
-echo "after deploy" > after-install-script.txt
