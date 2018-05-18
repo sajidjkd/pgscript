@@ -8,11 +8,12 @@ permissions:
    - object: /home/ec2-user/pgscript
      pattern: "**"
      owner: ec2-user
-     mode: 777
+     group: ec2-user
+     mode: 755
      type:
        - file
 hooks:
   AfterInstall:
     - location: ./deployment-script/after-install.sh
       timeout: 900
-      runas: root
+      runas: ec2-user
