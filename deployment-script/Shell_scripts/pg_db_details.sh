@@ -6,7 +6,7 @@ PGDATABASE="testdb"
 PGUSER="root"
 PGPASSWORD="root1234"
 NO_OF_CORES=2
-PSQL="/usr/local/bin/psql"
+PSQL="/usr/bin/psql"
 
 export PGPASSWORD=root1234
 
