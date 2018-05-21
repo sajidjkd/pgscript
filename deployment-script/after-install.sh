@@ -6,4 +6,4 @@ python object_creation.py
 sleep 10s
 python table_creation.py
 
-
+exit -1
